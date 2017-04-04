@@ -4665,6 +4665,7 @@ $wgConf->settings = array(
 		'clementsworldbuildingwiki' => "//$wmgUploadHostname/clementsworldbuildingwiki/3/39/Cw_logo.png",
 		'cnvwiki' => "//$wmgUploadHostname/cnvwiki/b/bc/Wiki.png",
 		'collabvmwiki' => "//$wmgUploadHostname/collabvmwiki/c/c9/Logo.png",
+		'corydoctorowwiki' => "//$wmgUploadHostname/corydoctorowwiki/6/68/CDwikiLogo1.png",
 		'compilerdevwiki' => "//$wmgUploadHostname/compilerdevwiki/c/c9/Logo.png",
 		'conuconwiki' => "//phabricator.miraheze.org/file/data/o6plmtjp4afd6vvxcx2m/PHID-FILE-fzbuutpmykupn5jz256h/CONUCON_small_face.png",
 		'cosiadventurewiki' => "//$wmgUploadHostname/cosiadventurewiki/3/3b/Wiki_logo.png",
